@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "harmonic_site";
-$password = "wHa91bvZTvzF";
+$password = "";
 
 $email = $_POST["email"];
 try {
